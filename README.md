@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Product Manager larning the ropes on vibe coding trying to create apps that automate workflows and make life easier for everyday challenges. 
+I'm a Product Manager learning the ropes on vibe coding trying to create apps that automate workflows and make life easier for everyday challenges. 
 
 Feel free to connect: https://www.linkedin.com/in/kimgesch/
 
